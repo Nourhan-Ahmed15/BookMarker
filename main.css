@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color:burlywood;
+}
+h1{
+    color:orange;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+h2{
+    background-image:linear-gradient(to right, #3ca55c, #b5ac49);
+}
